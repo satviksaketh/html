@@ -27,10 +27,10 @@ h2 {
     font-style: normal;
 }
 
-.ab {
+.ab {border: 2px solid rgb(255, 0, 0) ;
     height: 120px;
     width: 120px;
-    border-radius: 60px;
+    border-radius:70px;
     margin-top: 10px;
 }
 
